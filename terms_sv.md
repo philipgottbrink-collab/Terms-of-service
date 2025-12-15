@@ -138,4 +138,4 @@ Fortsatt användning innebär godkännande.
 
 ---
 
-📄 **[Read these Terms of Service in English](terms-of-service.md)**
+📄 **[Read these Terms of Service in English](index.md)**
